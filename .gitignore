@@ -1,0 +1,55 @@
+# Pastas geradas automaticamente pelo Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Build Outputs
+[Bb]uild/
+[Bb]uilds/
+WebGL Builds/
+[Aa]rtifacts/
+
+# Sistema da Unity Collaborate
+UnityCollabHistory/
+
+# VSCode / Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Outras coisas
+.DS_Store
+Thumbs.db
+
+.env
+
+# Configurações locais do Unity
+LocalSettings/
+local.json
+*.local.json
+*.local
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Files
+*.log
+*.tmp
+*.bak
+*.swp
+*.pidb
+*.booproj
+*.svd
+*.zip
+*.tar.gz
+*.apk
+*.aab
